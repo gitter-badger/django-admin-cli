@@ -152,3 +152,8 @@ Online resources
 .. _`Coveralls report`: https://coveralls.io/r/ZuluPro/django-admin-cli?branch=master
 .. _`Travis CI server`: https://travis-ci.org/ZuluPro/django-admin-cli
 .. _`Landscape`: https://landscape.io/github/ZuluPro/django-admin-cli/
+
+
+.. image:: https://badges.gitter.im/Join%20Chat.svg
+   :alt: Join the chat at https://gitter.im/ZuluPro/django-admin-cli
+   :target: https://gitter.im/ZuluPro/django-admin-cli?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
